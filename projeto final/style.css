@@ -145,6 +145,7 @@ a:hover {
     opacity: 0;
     visibility: hidden;
     transition: 400ms ease-in-out 0s;
+    
 }
 
 .menu-intems ul {
@@ -195,6 +196,7 @@ a:hover {
 #toggle:checked ~ .menu-intems {
     visibility: visible;
     opacity: 1;
+    border-radius: 50%;
 }
 
 /* CARDS */
@@ -304,7 +306,7 @@ a:hover {
 
 }
 
-/*RESPONSIVO*/
+/*RESPONSIVO
 
 @media (max-width 800px) {
     .social-midia{
@@ -340,4 +342,4 @@ a:hover {
         height: 190px;
         width:  190px;
     }
-}
+}*/
