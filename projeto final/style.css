@@ -196,7 +196,6 @@ a:hover {
 #toggle:checked ~ .menu-intems {
     visibility: visible;
     opacity: 1;
-    border-radius: 50%;
 }
 
 /* CARDS */
